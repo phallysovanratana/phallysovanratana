@@ -1,6 +1,6 @@
 # Welcome to my GitHub profile ✨
 
-I'm an IT student who loves learning new technologies and building useful projects. I enjoy coding, exploring how systems work, and improving my skills every day.
+I'm an CS student who loves learning new technologies at **Cambodia Academic Of Digital Technology** and building useful projects. I enjoy coding, exploring how systems work, and improving my skills every day.
 
 My interests include:
 
