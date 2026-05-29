@@ -1,16 +1,13 @@
-## Hi there 👋
+# Welcome to my GitHub profile ✨
 
-<!--
-**phallysovanratana/phallysovanratana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an IT student who loves learning new technologies and building useful projects. I enjoy coding, exploring how systems work, and improving my skills every day.
 
-Here are some ideas to get you started:
+My interests include:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Programming
+* Web Development
+* Networking
+* Databases
+* Software Engineering
+
+Thanks for visiting my profile!
